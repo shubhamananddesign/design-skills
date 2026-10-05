@@ -14,13 +14,13 @@ Use this visual system consistently across the entire presentation:
     
 *   **Primary background:** Deep/dark BLACK
     
-*   **Accent:** #fca394
+*   **Accent:** Dark orange #e8763a
     
 *   **Text:** White
     
 *   **Font:** montserrat
     
-*   Use fca394 color selectively for highlights, key numbers, active states, dividers, and important visual elements.
+*   Use orange selectively for highlights, key numbers, active states, dividers, and important visual elements.
     
 *   Maintain strong contrast and accessibility.
     
