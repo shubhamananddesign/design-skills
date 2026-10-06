@@ -1,3 +1,8 @@
+---
+name: ai-pm-quiz-build-spec
+description: Build spec for the "AI PM Quiz" app — navy-brand design tokens, screen-by-screen content (header, home, quiz, results, booking modal), interaction states, and the questions API contract. Use whenever building, editing, or reviewing the AI PM Quiz product UI or its question-fetching backend. Not a general design system — scoped to this one quiz app.
+---
+
 ```yaml
 title: "AI PM Quiz — Build Spec"
 

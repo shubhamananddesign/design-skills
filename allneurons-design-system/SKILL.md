@@ -1,4 +1,9 @@
 ---
+name: allneurons-design-system
+description: Design tokens and component specs for allNeurons product UI — flat, light, data-dense, neutral grey with a single dark-blue primary (#125ACB), Inter Display type, no gradients or shadows. Use whenever building, mocking up, or reviewing any allNeurons report, dashboard, table, card, button, dropdown, checkbox, badge, or modal, to keep colors, spacing, radius, and type consistent with the system. Not for marketing/landing pages or other products' design systems.
+---
+
+---
 # ==============================================================================
 # allNeurons Design System
 # ==============================================================================
